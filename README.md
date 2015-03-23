@@ -1,5 +1,5 @@
 # NNet 0.1
-This is a simple implementation of neural networks in Python. Use at your own risk, as  this is very messy, has very little internal testing, and created in an ad-hoc manner to suit my needs.
+This is a simple implementation of neural networks in Python. Use at your own risk, as  this is very messy, has very little internal testing, and created in an ad-hoc manner to suit my needs as they came up.
 
 <h1>Example</h1>
 The model expects NxP numpy arrays as input (X) where N is the number of observations and P is the number of features. The target values (Y) can either be a numpy array where each column is a class for classification or a number for regression.
